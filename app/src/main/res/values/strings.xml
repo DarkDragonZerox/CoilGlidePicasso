@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CoilGlidePicasso</string>
+    <string name="picasso">PICASSO</string>
+    <string name="glide">GLIDE</string>
+    <string name="coil">COIL</string>
+</resources>
